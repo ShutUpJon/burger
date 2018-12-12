@@ -1,6 +1,5 @@
 -- Create the database burgers_db.
-CREATE DATABASE burgers_db;
-USE burgers_db;
+USE rd6aed0caj8z8hy8;
 
 -- Create the table burgers.
 CREATE TABLE burgers
